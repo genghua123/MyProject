@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\user\desktop\ch7\lab1\source\main.c(34): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Lab1.vcxproj -> C:\Users\USER\Desktop\CH7\Lab1\Lab1\Debug\Lab1.exe
